@@ -29,8 +29,7 @@ macOS 14.6 или новее.
 
 1. Скачайте `ExecutiveSearchHelper-1.0.2-3.dmg` из [последнего релиза](https://github.com/SLMK14/executive-search-helper-download/releases/latest).
 2. Откройте DMG.
-3. Перетащите приложение в папку «Программы».
-4. Откройте приложение.
+3. Следуйте инструкции в открывшемся окне установки.
 
 ## Важно
 
